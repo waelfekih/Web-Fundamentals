@@ -1,0 +1,43 @@
+.row {
+    width: 100%;
+    display: grid;
+      grid-template-columns: repeat(4, 1fr); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.col {
+    background-color: blue;
+    color: white;
+    height: 40px;
+    text-align: center;
+   margin-bottom: 20px;
+   
+}
+.row2 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.col-2 {
+    background-color: blue;
+    color: white;
+    height: 40px;
+    text-align: center;
+}
+.row3 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 15px;
+    flex-wrap: wrap;
+
+}
+    .col-3 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
