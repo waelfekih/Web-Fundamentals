@@ -1,0 +1,23 @@
+.div1 {
+    width: 700px;
+    border: 2px solid black;
+    
+    
+}
+.div2 {
+    height: 100px;
+    background-color: blue;
+}
+.div3 {
+ 
+  height: 220px;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 10px;
+    
+}
+.img1 {
+    position: relative;
+    top: 40px;
+    left: 10px;
+}
