@@ -1,0 +1,142 @@
+.DivList {
+    background-color: rgb(65, 64, 64);
+    color: white;
+    height: 70px;
+    margin-bottom: 20px;
+
+}
+.list1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    gap: 30px;
+    list-style-type: none;
+
+
+}
+.list11 {
+    list-style-type: none;
+    font-size: 20px; 
+}
+.profilelist {
+    font-size: large;
+    float: left;
+    list-style-type: none;
+    margin-left: 30px;
+
+}
+.btn1 {
+    background-color: blue;
+    color: white;
+    float: right;
+    width: 80px;
+    height: 30px;
+    list-style-type: none;
+    margin-right: 70px;
+    margin-top: -65px;
+}
+
+.DivUser {
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-left: 30px;
+
+    
+}
+.DivUser1 {
+    background-color: aqua;
+    height: 70px;
+}
+.DivUser2 {
+    padding-left: 10px;
+    font-size: 15px;
+}
+.ImgUser {
+    position: relative;
+    top: 40px;
+    left: 10px;
+}
+h2 {
+    background-color: rgb(65, 64, 64) ;
+    color: white;
+    margin-top: 0px;
+    height: 35px;
+
+}
+.DivEdu {
+    width: 500px;
+    height: 180px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-left: 30px ;
+}
+.peducation {
+    color: grey;
+}
+
+.ConnReq {
+    width: 500px;
+    height: 150px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    position: relative;
+    left: 600px;
+    top: -510px;
+
+}
+p {
+    padding-left: 10px;
+
+}
+
+.NumReq {
+    background-color: grey;
+    color: black;
+    margin-left: 10px;
+    border-radius: 100%;
+    padding: 2px;
+    font-size: 22px;
+}
+ .symbol {
+    background-color: grey;
+    color: white;
+    border-radius: 100%;
+    padding: 5px;
+    font-size: large;
+ }
+.symbol2 {
+    background-color: grey;
+    color: white;
+    border-radius: 100%;
+    margin-left: 25px;
+    padding: 5px;
+    font-size: large;
+
+}
+.connections {
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 150px;
+    position: relative;
+    left: 600px;
+    top: -450px;
+}
+.ConnNum {
+    background-color: grey;
+    color: black;
+    margin-left: 10px;
+    border-radius: 100%;
+    padding: 2px;
+    font-size: 22px;
+}
+footer { 
+    border-top: 2px solid black;
+    margin-top: 10px;
+    padding: 5px;
+}
